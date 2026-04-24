@@ -12,7 +12,7 @@ let brazilianFood = [];
 //["coxinha" , null ," brigadeiro"]
 
 brazilianFood.push("coxinha",null, "brigadeiro")
- //                    1       2       3
+ //                    0       1       2
  //no lugar do null, adicionar pãO de queijo
 
 console.log(brazilianFood[1])
